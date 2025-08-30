@@ -1,7 +1,7 @@
 {
   "name": "kanban-board-tool",
   "version": "1.0.1",
-  "description": "A simple Kanban board tool to help teams visualize and manage their workflow using agile methodology. This tool provides features to add, update, and remove tasks, allowing for a clear view of project progress.",
+  "description": "A Kanban board tool for teams to visualize and manage their workflow using agile methodology. Features include adding, updating, and removing tasks, providing clarity on project progress.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
