@@ -8,6 +8,8 @@ module.exports = {
     path: path.resolve(__dirname, 'public'),
     filename: 'bundle.js'
   },
+  // Mode configuration to set the environment
+  mode: 'development', // Change to 'production' for optimized builds
   // Module configuration with rules for processing files
   module: {
     rules: [
