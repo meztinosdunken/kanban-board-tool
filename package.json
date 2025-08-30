@@ -1,6 +1,6 @@
 {
   "name": "kanban-board-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Kanban board tool to help teams visualize and manage their workflow using agile methodology.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^5.13.7",
+    "mongoose": "^6.0.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "body-parser": "^1.19.1"
